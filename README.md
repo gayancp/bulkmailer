@@ -1,2 +1,2 @@
 # bulkmailer
-Bulk email sending tool
+Bulk email sending tool using google gmail api
